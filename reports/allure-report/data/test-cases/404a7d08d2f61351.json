@@ -1,0 +1,131 @@
+{
+  "uid" : "404a7d08d2f61351",
+  "name" : "locked_out_user 用户登录",
+  "fullName" : "test_cases.test_login#test_login",
+  "historyId" : "2d42b053a7c60a71806e9eff04ee35aa",
+  "time" : {
+    "start" : 1744203956370,
+    "stop" : 1744203956674,
+    "duration" : 304
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'\n  - https://www.saucedemo.com/inventory.html\n  ?                           --------------\n  + https://www.saucedemo.com/",
+  "statusTrace" : "setup_login = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c5e2e1d8aac0dcb3c2f9758f84f6c782\")>\nusername = 'locked_out_user', password = 'secret_sauce'\n\n    @allure.feature('Login')\n    @pytest.mark.parametrize(\"username, password\",[\n    (\"standard_user\",\"secret_sauce\"),\n    (\"locked_out_user\",\"secret_sauce\"),\n    (\"problem_user\",\"secret_sauce\"),\n    (\"performance_glitch_user\",\"secret_sauce\"),\n    (\"error_user\",\"secret_sauce\"),\n    (\"visual_user\",\"secret_sauce\")\n    ])\n    def test_login(setup_login, username, password):\n    \n        allure.dynamic.story(f\"{username}用户登录\")  # 根据 username 动态设置 Story\n        allure.dynamic.title(f\"{username} 用户登录\")  # 动态设置标题\n    \n        wdriver = setup_login    # 接收fixture返回的wdriver对象\n        screenshot_util = Screenshot(wdriver) #初始化截图工具\n        login_page = LoginPage(wdriver)\n    \n        try:\n            login_page.login(username, password)\n    \n            # 断言：验证是否进入商品页面\n>           assert wdriver.current_url == URL_PRODUCT\nE           AssertionError: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'\nE             - https://www.saucedemo.com/inventory.html\nE             ?                           --------------\nE             + https://www.saucedemo.com/\n\ntest_cases\\test_login.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_login",
+    "time" : {
+      "start" : 1744203953652,
+      "stop" : 1744203956369,
+      "duration" : 2717
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'\n  - https://www.saucedemo.com/inventory.html\n  ?                           --------------\n  + https://www.saucedemo.com/",
+    "statusTrace" : "setup_login = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"c5e2e1d8aac0dcb3c2f9758f84f6c782\")>\nusername = 'locked_out_user', password = 'secret_sauce'\n\n    @allure.feature('Login')\n    @pytest.mark.parametrize(\"username, password\",[\n    (\"standard_user\",\"secret_sauce\"),\n    (\"locked_out_user\",\"secret_sauce\"),\n    (\"problem_user\",\"secret_sauce\"),\n    (\"performance_glitch_user\",\"secret_sauce\"),\n    (\"error_user\",\"secret_sauce\"),\n    (\"visual_user\",\"secret_sauce\")\n    ])\n    def test_login(setup_login, username, password):\n    \n        allure.dynamic.story(f\"{username}用户登录\")  # 根据 username 动态设置 Story\n        allure.dynamic.title(f\"{username} 用户登录\")  # 动态设置标题\n    \n        wdriver = setup_login    # 接收fixture返回的wdriver对象\n        screenshot_util = Screenshot(wdriver) #初始化截图工具\n        login_page = LoginPage(wdriver)\n    \n        try:\n            login_page.login(username, password)\n    \n            # 断言：验证是否进入商品页面\n>           assert wdriver.current_url == URL_PRODUCT\nE           AssertionError: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'\nE             - https://www.saucedemo.com/inventory.html\nE             ?                           --------------\nE             + https://www.saucedemo.com/\n\ntest_cases\\test_login.py:34: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3d492a63d5edd8a3",
+      "name" : "log",
+      "source" : "3d492a63d5edd8a3.txt",
+      "type" : "text/plain",
+      "size" : 264
+    }, {
+      "uid" : "15f26c046b5bd1b3",
+      "name" : "stdout",
+      "source" : "15f26c046b5bd1b3.txt",
+      "type" : "text/plain",
+      "size" : 71
+    }, {
+      "uid" : "92885bb0f4770e3d",
+      "name" : "stderr",
+      "source" : "92885bb0f4770e3d.txt",
+      "type" : "text/plain",
+      "size" : 1834
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "setup_login::0",
+    "time" : {
+      "start" : 1744203956688,
+      "stop" : 1744203958866,
+      "duration" : 2178
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "locked_out_user用户登录"
+  }, {
+    "name" : "feature",
+    "value" : "Login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'secret_sauce'"
+  }, {
+    "name" : "username",
+    "value" : "'locked_out_user'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "404a7d08d2f61351.json",
+  "parameterValues" : [ "'secret_sauce'", "'locked_out_user'" ]
+}

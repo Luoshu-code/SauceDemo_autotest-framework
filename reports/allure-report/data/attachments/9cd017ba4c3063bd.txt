@@ -1,0 +1,1 @@
+[1m[31mERROR   [0m SauceDemo_logger:test_checkout_one.py:87 Test Failed: 结账信息填写测试，进入结账总览页面失败:Error: Last Name is required

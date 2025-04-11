@@ -1,0 +1,781 @@
+[ {
+  "uid" : "84345ade891f0ed4",
+  "name" : "Cancel",
+  "time" : {
+    "start" : 1744203887936,
+    "stop" : 1744203887995,
+    "duration" : 59
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8546a8cbe45483d4",
+  "name" : "test_title_link[Sauce Labs Bike Light]",
+  "time" : {
+    "start" : 1744204110818,
+    "stop" : 1744204110932,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de1d0aa3e21a2040",
+  "name" : "移除购物车中的sauce-labs-backpack测试",
+  "time" : {
+    "start" : 1744203756481,
+    "stop" : 1744203756721,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf5cbd8c6c56e144",
+  "name" : "test_picture_link[Sauce Labs Backpack]",
+  "time" : {
+    "start" : 1744204054028,
+    "stop" : 1744204054654,
+    "duration" : 626
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "250bc6f7cc433438",
+  "name" : "Sauce Labs Bolt T-Shirt 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204278500,
+    "stop" : 1744204278636,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "925286312b397f7e",
+  "name" : "Sauce Labs Bolt T-Shirt 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204205480,
+    "stop" : 1744204205627,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31092bffd4068005",
+  "name" : "visual_user 用户登录",
+  "time" : {
+    "start" : 1744204010133,
+    "stop" : 1744204010360,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1969ca1b8998ee6f",
+  "name" : "Back Home",
+  "time" : {
+    "start" : 1744203834400,
+    "stop" : 1744203834455,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f181326a158bf6",
+  "name" : "firstname:【】 lastname:【】 postalcode:【】",
+  "time" : {
+    "start" : 1744203882208,
+    "stop" : 1744203882526,
+    "duration" : 318
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "63b4367ad982ccdc",
+  "name" : "Sauce Labs Fleece Jacket 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204284587,
+    "stop" : 1744204284724,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4c5bd84944d1189",
+  "name" : "Order",
+  "time" : {
+    "start" : 1744203828088,
+    "stop" : 1744203828111,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f2fca6d3b0cdb09",
+  "name" : "test_picture_link[Sauce Labs Bolt T-Shirt]",
+  "time" : {
+    "start" : 1744204064896,
+    "stop" : 1744204065521,
+    "duration" : 625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cebed49b090b3438",
+  "name" : "firstname:【sang】 lastname:【zhang】 postalcode:【666666】",
+  "time" : {
+    "start" : 1744203850930,
+    "stop" : 1744203851111,
+    "duration" : 181
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f94589c106a65329",
+  "name" : "firstname:【sang】 lastname:【zhang】 postalcode:【666666】",
+  "time" : {
+    "start" : 1744203861938,
+    "stop" : 1744203862128,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8144624db9739c0d",
+  "name" : "加入购物车商品数目:6",
+  "time" : {
+    "start" : 1744203942055,
+    "stop" : 1744203945204,
+    "duration" : 3149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36c44b71a623af1f",
+  "name" : "test_sort_za",
+  "time" : {
+    "start" : 1744204032802,
+    "stop" : 1744204032908,
+    "duration" : 106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d96aba985da307c5",
+  "name" : "test_picture_link[Sauce Labs Bike Light]",
+  "time" : {
+    "start" : 1744204058979,
+    "stop" : 1744204059608,
+    "duration" : 629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b10b9ebe359677cc",
+  "name" : "test_picture_link[Sauce Labs Fleece Jacket]",
+  "time" : {
+    "start" : 1744204069925,
+    "stop" : 1744204070548,
+    "duration" : 623
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "575219b13dd933c5",
+  "name" : "test_sort_up",
+  "time" : {
+    "start" : 1744204044556,
+    "stop" : 1744204044651,
+    "duration" : 95
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34bd3bd1e6d1defb",
+  "name" : "Sauce Labs Backpack 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204178029,
+    "stop" : 1744204178198,
+    "duration" : 169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4031825089de9f64",
+  "name" : "test_title_link[Sauce Labs Bolt T-Shirt]",
+  "time" : {
+    "start" : 1744204130276,
+    "stop" : 1744204130397,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e61398513f8caa0",
+  "name" : "test_products_remove",
+  "time" : {
+    "start" : 1744204021570,
+    "stop" : 1744204021805,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a71422d957a8070",
+  "name" : "Test.allTheThings() T-Shirt (Red) 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204260264,
+    "stop" : 1744204260463,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef5e150c9c7f49b1",
+  "name" : "test_title_link[Sauce Labs Onesie]",
+  "time" : {
+    "start" : 1744204148419,
+    "stop" : 1744204148534,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fb51cc91f927ec0",
+  "name" : "Sauce Labs Bike Light 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204198740,
+    "stop" : 1744204198887,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e571a950a5fda166",
+  "name" : "test_title_link[Sauce Labs Backpack]",
+  "time" : {
+    "start" : 1744204106071,
+    "stop" : 1744204106208,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b0fe9f12a6e51bd",
+  "name" : "firstname:【】 lastname:【】 postalcode:【】",
+  "time" : {
+    "start" : 1744203856230,
+    "stop" : 1744203856514,
+    "duration" : 284
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a31ef259f7b98ef",
+  "name" : "Test.allTheThings() T-Shirt (Red) 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204296792,
+    "stop" : 1744204296935,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "399b85b302d041e9",
+  "name" : "加入购物车商品数目:1",
+  "time" : {
+    "start" : 1744203903015,
+    "stop" : 1744203903968,
+    "duration" : 953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7da543cd7abcd9e4",
+  "name" : "test_sort_az",
+  "time" : {
+    "start" : 1744204027424,
+    "stop" : 1744204027522,
+    "duration" : 98
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c0910da88ee767a",
+  "name" : "移除购物车中的sauce-labs-bolt-t-shirt测试",
+  "time" : {
+    "start" : 1744203767963,
+    "stop" : 1744203768177,
+    "duration" : 214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a6461298b504f3",
+  "name" : "购物车中的sauce-labs-bike-light跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203797671,
+    "stop" : 1744203797896,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3629c34d054dbb58",
+  "name" : "购物车中的sauce-labs-backpack跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203791672,
+    "stop" : 1744203791886,
+    "duration" : 214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54ebbb5e648ec429",
+  "name" : "standard_user 用户登录",
+  "time" : {
+    "start" : 1744203951315,
+    "stop" : 1744203951474,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b725e3985ab0fd68",
+  "name" : "problem_user 用户登录",
+  "time" : {
+    "start" : 1744203961243,
+    "stop" : 1744203961416,
+    "duration" : 173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "679749bb034f7d8c",
+  "name" : "test_title_link[Sauce Labs Fleece Jacket]",
+  "time" : {
+    "start" : 1744204134968,
+    "stop" : 1744204135110,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7935aa6aed804ccb",
+  "name" : "加入购物车商品数目:3",
+  "time" : {
+    "start" : 1744203909054,
+    "stop" : 1744203910269,
+    "duration" : 1215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a429baacf9f4e0",
+  "name" : "Sauce Labs Fleece Jacket 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204247917,
+    "stop" : 1744204248144,
+    "duration" : 227
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d027a9b639b12753",
+  "name" : "test_cart_link",
+  "time" : {
+    "start" : 1744204158237,
+    "stop" : 1744204158330,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f95c4901b06b354",
+  "name" : "Sauce Labs Onesie 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204254577,
+    "stop" : 1744204254768,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6120dbe5f7e44cff",
+  "name" : "加入购物车商品数目:1",
+  "time" : {
+    "start" : 1744203927929,
+    "stop" : 1744203928902,
+    "duration" : 973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b1870b92d0d4314",
+  "name" : "Sauce Labs Backpack 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204266055,
+    "stop" : 1744204266214,
+    "duration" : 159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3737c935c748ca7",
+  "name" : "test_picture_link[Sauce Labs Onesie]",
+  "time" : {
+    "start" : 1744204075488,
+    "stop" : 1744204076106,
+    "duration" : 618
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad5568a932494bac",
+  "name" : "购物车中的sauce-labs-onesie跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203816556,
+    "stop" : 1744203816775,
+    "duration" : 219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a536aa95ea0c3be4",
+  "name" : "Sauce Labs Onesie 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204290801,
+    "stop" : 1744204290944,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e75a27b6ca182086",
+  "name" : "cart reset",
+  "time" : {
+    "start" : 1744203840664,
+    "stop" : 1744203840671,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16e2465ebce1dce1",
+  "name" : "test_products_add",
+  "time" : {
+    "start" : 1744204015253,
+    "stop" : 1744204015494,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdace2a668542535",
+  "name" : "Sauce Labs Fleece Jacket 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204211584,
+    "stop" : 1744204211739,
+    "duration" : 155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fbdb31d9f3557a0",
+  "name" : "移除购物车中的sauce-labs-onesie测试",
+  "time" : {
+    "start" : 1744203779837,
+    "stop" : 1744203780062,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "404a7d08d2f61351",
+  "name" : "locked_out_user 用户登录",
+  "time" : {
+    "start" : 1744203956370,
+    "stop" : 1744203956674,
+    "duration" : 304
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "627ae671584c7a5c",
+  "name" : "error_user 用户登录",
+  "time" : {
+    "start" : 1744203975381,
+    "stop" : 1744203975572,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dc5844dea4ab919",
+  "name" : "移除购物车中的sauce-labs-fleece-jacket测试",
+  "time" : {
+    "start" : 1744203773775,
+    "stop" : 1744203773982,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23e5d056cecdc27b",
+  "name" : "购物车中的test.allthethings()-t-shirt-(red)跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203822270,
+    "stop" : 1744203822484,
+    "duration" : 214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4ac4e949ab50f0",
+  "name" : "购物车中的sauce-labs-fleece-jacket跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203810653,
+    "stop" : 1744203810891,
+    "duration" : 238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3118091f6b0a07c",
+  "name" : "加入购物车商品数目:3",
+  "time" : {
+    "start" : 1744203934965,
+    "stop" : 1744203936736,
+    "duration" : 1771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73884abf43da38f6",
+  "name" : "Test.allTheThings() T-Shirt (Red) 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204222605,
+    "stop" : 1744204222752,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be9bcfc6e8d48ef2",
+  "name" : "Finsh",
+  "time" : {
+    "start" : 1744203892713,
+    "stop" : 1744203892765,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e180fc23052741b",
+  "name" : "Sauce Labs Onesie 详情页加入购物车测试",
+  "time" : {
+    "start" : 1744204217146,
+    "stop" : 1744204217294,
+    "duration" : 148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a2c5b9fe4c485a",
+  "name" : "Sauce Labs Bike Light 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204234452,
+    "stop" : 1744204234651,
+    "duration" : 199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c81f3f25607b79ba",
+  "name" : "test_checkout",
+  "time" : {
+    "start" : 1744203751851,
+    "stop" : 1744203751913,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5335b71a1aa45e08",
+  "name" : "加入购物车商品数目:6",
+  "time" : {
+    "start" : 1744203915657,
+    "stop" : 1744203917257,
+    "duration" : 1600
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "377d0e6d777bf6ee",
+  "name" : "加入购物车商品数目:0",
+  "time" : {
+    "start" : 1744203897205,
+    "stop" : 1744203897523,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26a0b7c714d93389",
+  "name" : "购物车中的sauce-labs-bolt-t-shirt跳转到商品详情页测试",
+  "time" : {
+    "start" : 1744203804623,
+    "stop" : 1744203804852,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54c037aaa8ca58d",
+  "name" : "test_picture_link[Test.allTheThings() T-Shirt (Red)]",
+  "time" : {
+    "start" : 1744204080607,
+    "stop" : 1744204081232,
+    "duration" : 625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93ef7e1aac3d8da6",
+  "name" : "Cancel",
+  "time" : {
+    "start" : 1744203846342,
+    "stop" : 1744203846396,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60d35504a15ea740",
+  "name" : "Sauce Labs Backpack 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204228402,
+    "stop" : 1744204228605,
+    "duration" : 203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9e3ac6ae8c5e778",
+  "name" : "Sauce Labs Bolt T-Shirt 详情页移除购物车测试",
+  "time" : {
+    "start" : 1744204241960,
+    "stop" : 1744204242152,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce81eb3d9d9fb87a",
+  "name" : "test_sort_down",
+  "time" : {
+    "start" : 1744204049420,
+    "stop" : 1744204049538,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dde152845885481",
+  "name" : "performance_glitch_user 用户登录",
+  "time" : {
+    "start" : 1744203965894,
+    "stop" : 1744203971076,
+    "duration" : 5182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c10b8215a6d75430",
+  "name" : "移除购物车中的test.allthethings()-t-shirt-(red)测试",
+  "time" : {
+    "start" : 1744203785550,
+    "stop" : 1744203785766,
+    "duration" : 216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d026be412f182cd6",
+  "name" : "Sauce Labs Bike Light 详情页返回主页测试",
+  "time" : {
+    "start" : 1744204272863,
+    "stop" : 1744204273002,
+    "duration" : 139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e453cdcc4d64d083",
+  "name" : "firstname:【san】 lastname:【zhang】 postalcode:【】",
+  "time" : {
+    "start" : 1744203876028,
+    "stop" : 1744203876366,
+    "duration" : 338
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ba6411b38409a27",
+  "name" : "firstname:【san】 lastname:【】 postalcode:【666666】",
+  "time" : {
+    "start" : 1744203866560,
+    "stop" : 1744203866853,
+    "duration" : 293
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1599965e602d34",
+  "name" : "firstname:【】 lastname:【zhang】 postalcode:【666666】",
+  "time" : {
+    "start" : 1744203871343,
+    "stop" : 1744203871666,
+    "duration" : 323
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e00fc80cadcf0102",
+  "name" : "test_title_link[Test.allTheThings() T-Shirt (Red)]",
+  "time" : {
+    "start" : 1744204153413,
+    "stop" : 1744204153546,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d75e524082ebfadc",
+  "name" : "test_backup_main",
+  "time" : {
+    "start" : 1744203746378,
+    "stop" : 1744203746462,
+    "duration" : 84
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e5f2aa3c9cc1a81",
+  "name" : "加入购物车商品数目:0",
+  "time" : {
+    "start" : 1744203922437,
+    "stop" : 1744203922760,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "902ece07c8761ee9",
+  "name" : "移除购物车中的sauce-labs-bike-light测试",
+  "time" : {
+    "start" : 1744203762444,
+    "stop" : 1744203762641,
+    "duration" : 197
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

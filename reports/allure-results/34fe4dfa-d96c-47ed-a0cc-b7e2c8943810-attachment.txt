@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_one.py:23 Test Passed: 结账填写信息页面取消，跳转购物车页面成功.

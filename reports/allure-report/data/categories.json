@@ -1,0 +1,95 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 'https://www....step-one.html' == 'https://www....step-two.html'\n  - https://www.saucedemo.com/checkout-step-two.html\n  ?                                         --\n  + https://www.saucedemo.com/checkout-step-one.html\n  ?                                          ++",
+      "children" : [ {
+        "name" : "firstname:【】 lastname:【】 postalcode:【】",
+        "uid" : "6b0fe9f12a6e51bd",
+        "parentUid" : "684a861eba1486b90148d1db9b9d0bf1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203856230,
+          "stop" : 1744203856514,
+          "duration" : 284
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "''", "''" ]
+      }, {
+        "name" : "firstname:【san】 lastname:【】 postalcode:【666666】",
+        "uid" : "5ba6411b38409a27",
+        "parentUid" : "684a861eba1486b90148d1db9b9d0bf1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203866560,
+          "stop" : 1744203866853,
+          "duration" : 293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'san'", "''", "'666666'" ]
+      }, {
+        "name" : "firstname:【】 lastname:【zhang】 postalcode:【666666】",
+        "uid" : "c1599965e602d34",
+        "parentUid" : "684a861eba1486b90148d1db9b9d0bf1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203871343,
+          "stop" : 1744203871666,
+          "duration" : 323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "'zhang'", "'666666'" ]
+      }, {
+        "name" : "firstname:【san】 lastname:【zhang】 postalcode:【】",
+        "uid" : "e453cdcc4d64d083",
+        "parentUid" : "684a861eba1486b90148d1db9b9d0bf1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203876028,
+          "stop" : 1744203876366,
+          "duration" : 338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'san'", "'zhang'", "''" ]
+      }, {
+        "name" : "firstname:【】 lastname:【】 postalcode:【】",
+        "uid" : "63f181326a158bf6",
+        "parentUid" : "684a861eba1486b90148d1db9b9d0bf1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203882208,
+          "stop" : 1744203882526,
+          "duration" : 318
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "''", "''" ]
+      } ],
+      "uid" : "684a861eba1486b90148d1db9b9d0bf1"
+    }, {
+      "name" : "AssertionError: assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'\n  - https://www.saucedemo.com/inventory.html\n  ?                           --------------\n  + https://www.saucedemo.com/",
+      "children" : [ {
+        "name" : "locked_out_user 用户登录",
+        "uid" : "404a7d08d2f61351",
+        "parentUid" : "b197b5cb5878673948c7482508e94acc",
+        "status" : "failed",
+        "time" : {
+          "start" : 1744203956370,
+          "stop" : 1744203956674,
+          "duration" : 304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'secret_sauce'", "'locked_out_user'" ]
+      } ],
+      "uid" : "b197b5cb5878673948c7482508e94acc"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

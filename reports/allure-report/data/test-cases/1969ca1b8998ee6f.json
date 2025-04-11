@@ -1,0 +1,111 @@
+{
+  "uid" : "1969ca1b8998ee6f",
+  "name" : "Back Home",
+  "fullName" : "test_cases.test_checkout_complete#test_checkout_comp_backhome",
+  "historyId" : "0731dbcebef00f8f10b12d4cc123354d",
+  "time" : {
+    "start" : 1744203834400,
+    "stop" : 1744203834455,
+    "duration" : 55
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_checkout_comp",
+    "time" : {
+      "start" : 1744203831119,
+      "stop" : 1744203834400,
+      "duration" : 3281
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "92b9524da6c723dc",
+      "name" : "log",
+      "source" : "92b9524da6c723dc.txt",
+      "type" : "text/plain",
+      "size" : 102
+    }, {
+      "uid" : "db293e517a72e572",
+      "name" : "stderr",
+      "source" : "db293e517a72e572.txt",
+      "type" : "text/plain",
+      "size" : 637
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_checkout_comp::0",
+    "time" : {
+      "start" : 1744203834456,
+      "stop" : 1744203837472,
+      "duration" : 3016
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "结账完毕页面，点击返回主页"
+  }, {
+    "name" : "feature",
+    "value" : "Checkout-complete: 返回主页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_complete"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_complete"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1969ca1b8998ee6f.json",
+  "parameterValues" : [ ]
+}

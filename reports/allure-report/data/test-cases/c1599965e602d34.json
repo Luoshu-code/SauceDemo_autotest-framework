@@ -1,0 +1,134 @@
+{
+  "uid" : "c1599965e602d34",
+  "name" : "firstname:【】 lastname:【zhang】 postalcode:【666666】",
+  "fullName" : "test_cases.test_checkout_one#test_checkout_one_enterinfo",
+  "historyId" : "2a50b8df9afb0fb927fa4ead6d8ae6f2",
+  "time" : {
+    "start" : 1744203871343,
+    "stop" : 1744203871666,
+    "duration" : 323
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'https://www....step-one.html' == 'https://www....step-two.html'\n  - https://www.saucedemo.com/checkout-step-two.html\n  ?                                         --\n  + https://www.saucedemo.com/checkout-step-one.html\n  ?                                          ++",
+  "statusTrace" : "setup_checkout_one = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"decd7cf3052f592738ae2c661d1a2788\")>\nfirstname = '', lastname = 'zhang', postalcode = '666666'\n\n    @allure.feature('Checkout-step one: 填写结账信息')\n    @allure.story(\"测试填写结账信息缺失，能否进入结账下一步\")\n    @pytest.mark.parametrize(\"firstname, lastname, postalcode\",[\n        (\"sang\", \"zhang\" ,\"666666\"),\n        (\"san\", \"\", \"666666\"),\n        (\"\", \"zhang\", \"666666\"),\n        (\"san\", \"zhang\", \"\"),\n        (\"\", \"\", \"\")\n    ])\n    def test_checkout_one_enterinfo(setup_checkout_one,firstname, lastname, postalcode):\n    \n        wdriver = setup_checkout_one\n        allure.dynamic.title(f\"firstname:【{firstname}】 lastname:【{lastname}】 postalcode:【{postalcode}】\")  # 动态设置标题\n    \n        screenshot_util = Screenshot(wdriver)\n        checkout_one_page = CheckoutOnePage(wdriver)\n    \n        try:\n            checkout_one_page.enter_firstname(firstname)\n            checkout_one_page.enter_lastname(lastname)\n            checkout_one_page.enter_postalcode(postalcode)\n            checkout_one_page.click_continue_checkout_one()\n>           assert  wdriver.current_url == URL_OVERVIEW\nE           AssertionError: assert 'https://www....step-one.html' == 'https://www....step-two.html'\nE             - https://www.saucedemo.com/checkout-step-two.html\nE             ?                                         --\nE             + https://www.saucedemo.com/checkout-step-one.html\nE             ?                                          ++\n\ntest_cases\\test_checkout_one.py:83: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_checkout_one",
+    "time" : {
+      "start" : 1744203869038,
+      "stop" : 1744203871342,
+      "duration" : 2304
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 'https://www....step-one.html' == 'https://www....step-two.html'\n  - https://www.saucedemo.com/checkout-step-two.html\n  ?                                         --\n  + https://www.saucedemo.com/checkout-step-one.html\n  ?                                          ++",
+    "statusTrace" : "setup_checkout_one = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"decd7cf3052f592738ae2c661d1a2788\")>\nfirstname = '', lastname = 'zhang', postalcode = '666666'\n\n    @allure.feature('Checkout-step one: 填写结账信息')\n    @allure.story(\"测试填写结账信息缺失，能否进入结账下一步\")\n    @pytest.mark.parametrize(\"firstname, lastname, postalcode\",[\n        (\"sang\", \"zhang\" ,\"666666\"),\n        (\"san\", \"\", \"666666\"),\n        (\"\", \"zhang\", \"666666\"),\n        (\"san\", \"zhang\", \"\"),\n        (\"\", \"\", \"\")\n    ])\n    def test_checkout_one_enterinfo(setup_checkout_one,firstname, lastname, postalcode):\n    \n        wdriver = setup_checkout_one\n        allure.dynamic.title(f\"firstname:【{firstname}】 lastname:【{lastname}】 postalcode:【{postalcode}】\")  # 动态设置标题\n    \n        screenshot_util = Screenshot(wdriver)\n        checkout_one_page = CheckoutOnePage(wdriver)\n    \n        try:\n            checkout_one_page.enter_firstname(firstname)\n            checkout_one_page.enter_lastname(lastname)\n            checkout_one_page.enter_postalcode(postalcode)\n            checkout_one_page.click_continue_checkout_one()\n>           assert  wdriver.current_url == URL_OVERVIEW\nE           AssertionError: assert 'https://www....step-one.html' == 'https://www....step-two.html'\nE             - https://www.saucedemo.com/checkout-step-two.html\nE             ?                                         --\nE             + https://www.saucedemo.com/checkout-step-one.html\nE             ?                                          ++\n\ntest_cases\\test_checkout_one.py:83: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b3eea1a341580061",
+      "name" : "log",
+      "source" : "b3eea1a341580061.txt",
+      "type" : "text/plain",
+      "size" : 163
+    }, {
+      "uid" : "a7e4d80776e75c90",
+      "name" : "stdout",
+      "source" : "a7e4d80776e75c90.txt",
+      "type" : "text/plain",
+      "size" : 84
+    }, {
+      "uid" : "b34867757f1f9c9d",
+      "name" : "stderr",
+      "source" : "b34867757f1f9c9d.txt",
+      "type" : "text/plain",
+      "size" : 1078
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "setup_checkout_one::0",
+    "time" : {
+      "start" : 1744203871671,
+      "stop" : 1744203873845,
+      "duration" : 2174
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Checkout-step one: 填写结账信息"
+  }, {
+    "name" : "story",
+    "value" : "测试填写结账信息缺失，能否进入结账下一步"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_one"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_one"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "firstname",
+    "value" : "''"
+  }, {
+    "name" : "lastname",
+    "value" : "'zhang'"
+  }, {
+    "name" : "postalcode",
+    "value" : "'666666'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "c1599965e602d34.json",
+  "parameterValues" : [ "''", "'zhang'", "'666666'" ]
+}

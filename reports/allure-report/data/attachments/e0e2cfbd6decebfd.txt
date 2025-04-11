@@ -1,0 +1,5 @@
+[1m[31mERROR   [0m SauceDemo_logger:test_checkout_one.py:56 Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++

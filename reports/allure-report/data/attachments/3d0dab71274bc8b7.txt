@@ -1,0 +1,7 @@
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.
+2025-04-09 21:05:17,257 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品条目与加入购物车的一致.

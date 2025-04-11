@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_cart.py:44 Test Passed: 购物车跳转到checkout页面成功.

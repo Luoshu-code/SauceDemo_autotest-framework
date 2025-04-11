@@ -1,0 +1,111 @@
+{
+  "uid" : "93ef7e1aac3d8da6",
+  "name" : "Cancel",
+  "fullName" : "test_cases.test_checkout_one#test_checkout_one_cancel",
+  "historyId" : "8b27931665f73a551c84379ed57d603d",
+  "time" : {
+    "start" : 1744203846342,
+    "stop" : 1744203846396,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_checkout_one",
+    "time" : {
+      "start" : 1744203843748,
+      "stop" : 1744203846342,
+      "duration" : 2594
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8ef9ec3504771d84",
+      "name" : "log",
+      "source" : "8ef9ec3504771d84.txt",
+      "type" : "text/plain",
+      "size" : 133
+    }, {
+      "uid" : "4854adeb7e144b69",
+      "name" : "stderr",
+      "source" : "4854adeb7e144b69.txt",
+      "type" : "text/plain",
+      "size" : 889
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_checkout_one::0",
+    "time" : {
+      "start" : 1744203846397,
+      "stop" : 1744203848554,
+      "duration" : 2157
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "结账填写信息页面，返回购物车"
+  }, {
+    "name" : "feature",
+    "value" : "Checkout-step one: 取消结账，返回购物车页面"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_one"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_one"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "93ef7e1aac3d8da6.json",
+  "parameterValues" : [ ]
+}

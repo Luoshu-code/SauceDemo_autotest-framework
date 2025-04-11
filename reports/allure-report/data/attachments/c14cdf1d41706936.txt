@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_cart.py:126 Test Passed: 购物车的sauce-labs-backpack跳转到详情页成功.

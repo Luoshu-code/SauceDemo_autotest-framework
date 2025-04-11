@@ -1,0 +1,7 @@
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.
+2025-04-09 21:02:31,911 - SauceDemo_logger - INFO - Test Passed: 购物车跳转到checkout页面成功.

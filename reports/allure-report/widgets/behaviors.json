@@ -1,0 +1,114 @@
+{
+  "total" : 21,
+  "items" : [ {
+    "uid" : "14102d61eef2af473312d4f91dec531b",
+    "name" : "Login",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "8669002ccb973f00f6d89e7271529e02",
+    "name" : "Checkout-step one: 结账信息填写完毕，进入Checkout-step two",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "15e16575cdc24364018ddc4e73065078",
+    "name" : "Checkout-step one: 填写结账信息",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "4a95b982c23b10ce4cb7d4d80e4346d0",
+    "name" : "Products: 主页排序",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "652714c69916d5f73782367d997aa7d6",
+    "name" : "Products: 加入或者移除购物车",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "1693f08ea3ab51ec45ca6036a6c47038",
+    "name" : "Products: 主页链接跳转",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "6f977d89fe65514b7c2c3ec756ce734e",
+    "name" : "Products Detail: 商品详情页加入或者移除购物车",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "26b1585ac1a46aa80912adb6256e8ca4",
+    "name" : "Cart: 购物车返回主页",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "705082b59bbb356ca7a8fd0164aaf57e",
+    "name" : "Cart: 购物车跳转到checkout",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "ad93b22c81f579df48ef48f435a959dc",
+    "name" : "Cart: 移除购物车中的商品",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

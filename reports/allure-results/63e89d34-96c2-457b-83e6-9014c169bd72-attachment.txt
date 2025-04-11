@@ -1,0 +1,7 @@
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.
+2025-04-09 21:07:50,548 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Fleece Jacket商品图片链接跳转到详情页成功.

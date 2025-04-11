@@ -1,0 +1,114 @@
+{
+  "uid" : "5dc5844dea4ab919",
+  "name" : "移除购物车中的sauce-labs-fleece-jacket测试",
+  "fullName" : "test_cases.test_cart#test_cart_remove",
+  "historyId" : "959e07bbe6abf2dd1d4d590fb5ebeea9",
+  "time" : {
+    "start" : 1744203773775,
+    "stop" : 1744203773982,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744203771196,
+      "stop" : 1744203773775,
+      "duration" : 2579
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4cd183ddae081836",
+      "name" : "log",
+      "source" : "4cd183ddae081836.txt",
+      "type" : "text/plain",
+      "size" : 110
+    }, {
+      "uid" : "4c61abad66ee7552",
+      "name" : "stderr",
+      "source" : "4c61abad66ee7552.txt",
+      "type" : "text/plain",
+      "size" : 784
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744203773983,
+      "stop" : 1744203776978,
+      "duration" : 2995
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "移除购物车中的商品"
+  }, {
+    "name" : "feature",
+    "value" : "Cart: 移除购物车中的商品"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_cart"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_cart"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "product",
+    "value" : "'add-to-cart-sauce-labs-fleece-jacket'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5dc5844dea4ab919.json",
+  "parameterValues" : [ "'add-to-cart-sauce-labs-fleece-jacket'" ]
+}

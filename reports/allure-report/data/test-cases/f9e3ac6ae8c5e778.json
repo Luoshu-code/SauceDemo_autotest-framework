@@ -1,0 +1,114 @@
+{
+  "uid" : "f9e3ac6ae8c5e778",
+  "name" : "Sauce Labs Bolt T-Shirt 详情页移除购物车测试",
+  "fullName" : "test_cases.test_products_details#test_products_remove_detail",
+  "historyId" : "c9db8e58c8081fc34494fc25a551380b",
+  "time" : {
+    "start" : 1744204241960,
+    "stop" : 1744204242152,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744204237678,
+      "stop" : 1744204241958,
+      "duration" : 4280
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a093e1cf0ab48f3a",
+      "name" : "log",
+      "source" : "a093e1cf0ab48f3a.txt",
+      "type" : "text/plain",
+      "size" : 142
+    }, {
+      "uid" : "75a5b025ccd377cd",
+      "name" : "stderr",
+      "source" : "75a5b025ccd377cd.txt",
+      "type" : "text/plain",
+      "size" : 924
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744204242154,
+      "stop" : 1744204245173,
+      "duration" : 3019
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "详情页：移除购物车"
+  }, {
+    "name" : "feature",
+    "value" : "Products Detail: 商品详情页加入或者移除购物车"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_products_details"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_products_details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "product",
+    "value" : "'Sauce Labs Bolt T-Shirt'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f9e3ac6ae8c5e778.json",
+  "parameterValues" : [ "'Sauce Labs Bolt T-Shirt'" ]
+}

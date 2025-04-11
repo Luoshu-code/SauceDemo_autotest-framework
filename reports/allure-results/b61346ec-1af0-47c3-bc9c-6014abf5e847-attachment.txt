@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_complete.py:26 Test Passed: 结账总览页面文本显示成功.

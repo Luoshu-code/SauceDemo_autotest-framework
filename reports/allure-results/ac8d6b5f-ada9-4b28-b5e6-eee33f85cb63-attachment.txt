@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_two.py:177 Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.

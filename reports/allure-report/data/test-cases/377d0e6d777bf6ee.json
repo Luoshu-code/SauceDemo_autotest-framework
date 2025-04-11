@@ -1,0 +1,117 @@
+{
+  "uid" : "377d0e6d777bf6ee",
+  "name" : "加入购物车商品数目:0",
+  "fullName" : "test_cases.test_checkout_two#test_check_items_checkout_two",
+  "historyId" : "cb9348896a296cf116ea7f92747c9355",
+  "time" : {
+    "start" : 1744203897205,
+    "stop" : 1744203897523,
+    "duration" : 318
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744203894954,
+      "stop" : 1744203897204,
+      "duration" : 2250
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "89b874ec8ac8ae24",
+      "name" : "log",
+      "source" : "89b874ec8ac8ae24.txt",
+      "type" : "text/plain",
+      "size" : 131
+    }, {
+      "uid" : "2ba5b4db338ae03a",
+      "name" : "stderr",
+      "source" : "2ba5b4db338ae03a.txt",
+      "type" : "text/plain",
+      "size" : 868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744203897525,
+      "stop" : 1744203900553,
+      "duration" : 3028
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Checkout-step two: 检查商品条目正确性"
+  }, {
+    "name" : "story",
+    "value" : "测试结账总览页面条目是否与加购的商品相符"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_two"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_two"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_count",
+    "value" : "0"
+  }, {
+    "name" : "products",
+    "value" : "[]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "377d0e6d777bf6ee.json",
+  "parameterValues" : [ "0", "[]" ]
+}

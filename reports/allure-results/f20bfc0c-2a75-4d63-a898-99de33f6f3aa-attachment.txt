@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products.py:29 Test Passed: All products added to cart successfully.

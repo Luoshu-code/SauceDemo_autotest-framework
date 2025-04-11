@@ -1,0 +1,7 @@
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.
+2025-04-09 21:10:11,739 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.

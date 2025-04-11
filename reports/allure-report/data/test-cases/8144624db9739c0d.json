@@ -1,0 +1,117 @@
+{
+  "uid" : "8144624db9739c0d",
+  "name" : "加入购物车商品数目:6",
+  "fullName" : "test_cases.test_checkout_two#test_check_price_checkout_two",
+  "historyId" : "852f4de1bd7d0b57b938287cf3a48dbf",
+  "time" : {
+    "start" : 1744203942055,
+    "stop" : 1744203945204,
+    "duration" : 3149
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744203939791,
+      "stop" : 1744203942055,
+      "duration" : 2264
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "350b87c45bd62c9e",
+      "name" : "log",
+      "source" : "350b87c45bd62c9e.txt",
+      "type" : "text/plain",
+      "size" : 146
+    }, {
+      "uid" : "c92463d85ade118",
+      "name" : "stderr",
+      "source" : "c92463d85ade118.txt",
+      "type" : "text/plain",
+      "size" : 973
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744203945206,
+      "stop" : 1744203948243,
+      "duration" : 3037
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试结账总览页面商品总价是否为加购商品之和"
+  }, {
+    "name" : "feature",
+    "value" : "Checkout-step two: 检查加购商品总价的正确性"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_two"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_two"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_count",
+    "value" : "6"
+  }, {
+    "name" : "products",
+    "value" : "['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8144624db9739c0d.json",
+  "parameterValues" : [ "6", "['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']" ]
+}

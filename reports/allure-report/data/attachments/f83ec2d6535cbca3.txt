@@ -1,0 +1,7 @@
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed
+2025-04-09 21:05:51,472 - SauceDemo_logger - INFO - Login test passed

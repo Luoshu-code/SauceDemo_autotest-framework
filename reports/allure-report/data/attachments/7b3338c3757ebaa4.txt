@@ -1,0 +1,7 @@
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.
+2025-04-09 21:07:45,520 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Bolt T-Shirt商品图片链接跳转到详情页成功.

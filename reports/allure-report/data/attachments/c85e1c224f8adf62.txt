@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_cart.py:25 Test Passed: 购物车页面跳转到主页成功.

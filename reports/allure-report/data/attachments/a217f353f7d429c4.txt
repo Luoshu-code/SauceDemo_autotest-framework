@@ -1,0 +1,7 @@
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.
+2025-04-09 21:06:55,493 - SauceDemo_logger - INFO - Test Passed: All products added to cart successfully.

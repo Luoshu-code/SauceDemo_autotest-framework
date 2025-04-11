@@ -1,0 +1,35 @@
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++
+2025-04-09 21:04:16,373 - SauceDemo_logger - ERROR - Test Failed: 结账信息填写完毕，进入结账总览页面失败:assert 'https://www....step-one.html' == 'https://www....step-two.html'
+  - https://www.saucedemo.com/checkout-step-two.html
+  ?                                         --
+  + https://www.saucedemo.com/checkout-step-one.html
+  ?                                          ++

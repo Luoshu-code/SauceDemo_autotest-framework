@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products.py:92 Test Passed: sort by Name (Z to A).

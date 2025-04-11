@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_one.py:84 Test Passed: 结账信息填写测试，进入结账总览页面成功.

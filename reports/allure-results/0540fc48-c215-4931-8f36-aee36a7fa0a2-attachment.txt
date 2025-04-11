@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_two.py:114 Test Passed: 结账总览页面商品条目与加入购物车的一致.

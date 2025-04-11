@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_two.py:51 Test Passed: 结账总览页面确认结束成功.

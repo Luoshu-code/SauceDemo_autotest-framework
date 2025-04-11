@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products.py:188 Test Passed: 主页Sauce Labs Bolt T-Shirt商品标题链接跳转到详情页成功.

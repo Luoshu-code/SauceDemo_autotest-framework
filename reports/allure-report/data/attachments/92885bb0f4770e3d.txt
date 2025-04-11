@@ -1,0 +1,28 @@
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/
+2025-04-09 21:05:56,533 - SauceDemo_logger - ERROR - Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/

@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_cart.py:84 Test Passed: 购物车移除sauce-labs-bike-light成功.

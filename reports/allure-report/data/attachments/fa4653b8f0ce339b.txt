@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products_details.py:40 Test Passed: 从Sauce Labs Fleece Jacket的商品详情页加入购物车成功.

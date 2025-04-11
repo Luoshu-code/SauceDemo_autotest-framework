@@ -1,0 +1,114 @@
+{
+  "uid" : "2f95c4901b06b354",
+  "name" : "Sauce Labs Onesie 详情页移除购物车测试",
+  "fullName" : "test_cases.test_products_details#test_products_remove_detail",
+  "historyId" : "ed49113d0dd708d8cef25428413053c4",
+  "time" : {
+    "start" : 1744204254577,
+    "stop" : 1744204254768,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744204251182,
+      "stop" : 1744204254577,
+      "duration" : 3395
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "36323b82fbdb375d",
+      "name" : "log",
+      "source" : "36323b82fbdb375d.txt",
+      "type" : "text/plain",
+      "size" : 136
+    }, {
+      "uid" : "39229553c715501b",
+      "name" : "stderr",
+      "source" : "39229553c715501b.txt",
+      "type" : "text/plain",
+      "size" : 882
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744204254769,
+      "stop" : 1744204257755,
+      "duration" : 2986
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "详情页：移除购物车"
+  }, {
+    "name" : "feature",
+    "value" : "Products Detail: 商品详情页加入或者移除购物车"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_products_details"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_products_details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "product",
+    "value" : "'Sauce Labs Onesie'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2f95c4901b06b354.json",
+  "parameterValues" : [ "'Sauce Labs Onesie'" ]
+}

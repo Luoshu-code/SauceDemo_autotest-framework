@@ -1,0 +1,114 @@
+{
+  "uid" : "bf5cbd8c6c56e144",
+  "name" : "test_picture_link[Sauce Labs Backpack]",
+  "fullName" : "test_cases.test_products#test_picture_link",
+  "historyId" : "971bfedfa486f4913eaadcb02940738a",
+  "time" : {
+    "start" : 1744204054028,
+    "stop" : 1744204054654,
+    "duration" : 626
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_link",
+    "time" : {
+      "start" : 1744204051692,
+      "stop" : 1744204054028,
+      "duration" : 2336
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f1d1e9eaa73984b7",
+      "name" : "log",
+      "source" : "f1d1e9eaa73984b7.txt",
+      "type" : "text/plain",
+      "size" : 137
+    }, {
+      "uid" : "e5ee427bfc54a21b",
+      "name" : "stderr",
+      "source" : "e5ee427bfc54a21b.txt",
+      "type" : "text/plain",
+      "size" : 938
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_link::0",
+    "time" : {
+      "start" : 1744204054656,
+      "stop" : 1744204056823,
+      "duration" : 2167
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "图片链接跳转详情"
+  }, {
+    "name" : "feature",
+    "value" : "Products: 主页链接跳转"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_products"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "product",
+    "value" : "'Sauce Labs Backpack'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bf5cbd8c6c56e144.json",
+  "parameterValues" : [ "'Sauce Labs Backpack'" ]
+}

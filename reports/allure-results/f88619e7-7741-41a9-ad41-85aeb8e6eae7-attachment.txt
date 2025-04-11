@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products.py:112 Test Passed: sort by Price (low to high).

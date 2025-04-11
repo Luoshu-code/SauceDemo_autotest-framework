@@ -1,0 +1,117 @@
+{
+  "uid" : "399b85b302d041e9",
+  "name" : "加入购物车商品数目:1",
+  "fullName" : "test_cases.test_checkout_two#test_check_items_checkout_two",
+  "historyId" : "1e6883ec18d5059a263c0c3e42dd04e9",
+  "time" : {
+    "start" : 1744203903015,
+    "stop" : 1744203903968,
+    "duration" : 953
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744203900564,
+      "stop" : 1744203903015,
+      "duration" : 2451
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6a4d70bcbb265b9d",
+      "name" : "log",
+      "source" : "6a4d70bcbb265b9d.txt",
+      "type" : "text/plain",
+      "size" : 131
+    }, {
+      "uid" : "83be03a22e42ad71",
+      "name" : "stderr",
+      "source" : "83be03a22e42ad71.txt",
+      "type" : "text/plain",
+      "size" : 868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744203903971,
+      "stop" : 1744203906985,
+      "duration" : 3014
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Checkout-step two: 检查商品条目正确性"
+  }, {
+    "name" : "story",
+    "value" : "测试结账总览页面条目是否与加购的商品相符"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_two"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_two"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expected_count",
+    "value" : "1"
+  }, {
+    "name" : "products",
+    "value" : "['Sauce Labs Backpack']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "399b85b302d041e9.json",
+  "parameterValues" : [ "1", "['Sauce Labs Backpack']" ]
+}

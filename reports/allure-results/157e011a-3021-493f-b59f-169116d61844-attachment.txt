@@ -1,0 +1,4 @@
+[1m[31mERROR   [0m SauceDemo_logger:test_login.py:38 Login test failed:assert 'https://www.saucedemo.com/' == 'https://www....nventory.html'
+  - https://www.saucedemo.com/inventory.html
+  ?                           --------------
+  + https://www.saucedemo.com/

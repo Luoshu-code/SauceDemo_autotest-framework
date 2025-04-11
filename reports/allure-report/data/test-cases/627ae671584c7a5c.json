@@ -1,0 +1,117 @@
+{
+  "uid" : "627ae671584c7a5c",
+  "name" : "error_user 用户登录",
+  "fullName" : "test_cases.test_login#test_login",
+  "historyId" : "9f1ef2eb1661f117485901e8df7551f2",
+  "time" : {
+    "start" : 1744203975381,
+    "stop" : 1744203975572,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_login",
+    "time" : {
+      "start" : 1744203973220,
+      "stop" : 1744203975380,
+      "duration" : 2160
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c9aec764206b772",
+      "name" : "log",
+      "source" : "5c9aec764206b772.txt",
+      "type" : "text/plain",
+      "size" : 69
+    }, {
+      "uid" : "7baec13ab6034865",
+      "name" : "stderr",
+      "source" : "7baec13ab6034865.txt",
+      "type" : "text/plain",
+      "size" : 490
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_login::0",
+    "time" : {
+      "start" : 1744203975573,
+      "stop" : 1744203977725,
+      "duration" : 2152
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "error_user用户登录"
+  }, {
+    "name" : "feature",
+    "value" : "Login"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "password",
+    "value" : "'secret_sauce'"
+  }, {
+    "name" : "username",
+    "value" : "'error_user'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "627ae671584c7a5c.json",
+  "parameterValues" : [ "'secret_sauce'", "'error_user'" ]
+}

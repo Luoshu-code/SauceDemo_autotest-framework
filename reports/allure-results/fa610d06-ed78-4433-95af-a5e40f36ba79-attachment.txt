@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_checkout_complete.py:64 Test Passed: 结账后购物车重置成功.

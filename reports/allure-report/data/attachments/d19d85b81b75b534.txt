@@ -1,0 +1,7 @@
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.
+2025-04-09 21:07:01,803 - SauceDemo_logger - INFO - Test Passed: All products removed from cart successfully.

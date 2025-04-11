@@ -1,0 +1,7 @@
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).
+2025-04-09 21:07:24,649 - SauceDemo_logger - INFO - Test Passed: sort by Price (low to high).

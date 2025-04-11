@@ -1,0 +1,3 @@
+browser: chrome
+
+# 路径不需指定，已在path变量中设置

@@ -1,0 +1,7 @@
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.
+2025-04-09 21:09:58,886 - SauceDemo_logger - INFO - Test Passed: 从Sauce Labs Bike Light的商品详情页加入购物车成功.

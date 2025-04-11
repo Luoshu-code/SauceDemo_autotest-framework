@@ -1,0 +1,111 @@
+{
+  "uid" : "d027a9b639b12753",
+  "name" : "test_cart_link",
+  "fullName" : "test_cases.test_products#test_cart_link",
+  "historyId" : "a44dfc50c8316bf62aac7f0ce0e8c0f5",
+  "time" : {
+    "start" : 1744204158237,
+    "stop" : 1744204158330,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_link",
+    "time" : {
+      "start" : 1744204155692,
+      "stop" : 1744204158236,
+      "duration" : 2544
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a6450a7ad469c7b",
+      "name" : "log",
+      "source" : "3a6450a7ad469c7b.txt",
+      "type" : "text/plain",
+      "size" : 106
+    }, {
+      "uid" : "4d256bac6c53447",
+      "name" : "stderr",
+      "source" : "4d256bac6c53447.txt",
+      "type" : "text/plain",
+      "size" : 721
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_link::0",
+    "time" : {
+      "start" : 1744204158331,
+      "stop" : 1744204160484,
+      "duration" : 2153
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Products: 主页跳转到购物车"
+  }, {
+    "name" : "story",
+    "value" : "跳转到购物车"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_products"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d027a9b639b12753.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,7 @@
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.
+2025-04-09 21:03:54,455 - SauceDemo_logger - INFO - Test Passed: 结账返回主页成功.

@@ -1,0 +1,7 @@
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.
+2025-04-09 21:07:56,105 - SauceDemo_logger - INFO - Test Passed: 主页Sauce Labs Onesie商品图片链接跳转到详情页成功.

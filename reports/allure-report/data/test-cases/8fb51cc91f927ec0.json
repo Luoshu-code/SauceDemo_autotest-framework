@@ -1,0 +1,120 @@
+{
+  "uid" : "8fb51cc91f927ec0",
+  "name" : "Sauce Labs Bike Light 详情页加入购物车测试",
+  "fullName" : "test_cases.test_products_details#test_products_add_detail",
+  "historyId" : "a257cbc653932ab4c1e699dbaebc3da4",
+  "time" : {
+    "start" : 1744204198740,
+    "stop" : 1744204198887,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_addtocart",
+    "time" : {
+      "start" : 1744204181241,
+      "stop" : 1744204198740,
+      "duration" : 17499
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "daede33913e08441",
+      "name" : "log",
+      "source" : "daede33913e08441.txt",
+      "type" : "text/plain",
+      "size" : 140
+    }, {
+      "uid" : "e48c76a84a54a01",
+      "name" : "stdout",
+      "source" : "e48c76a84a54a01.txt",
+      "type" : "text/plain",
+      "size" : 22
+    }, {
+      "uid" : "8aaf7e84c7f36dd9",
+      "name" : "stderr",
+      "source" : "8aaf7e84c7f36dd9.txt",
+      "type" : "text/plain",
+      "size" : 910
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ {
+    "name" : "setup_addtocart::0",
+    "time" : {
+      "start" : 1744204198888,
+      "stop" : 1744204201909,
+      "duration" : 3021
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Products Detail: 商品详情页加入或者移除购物车"
+  }, {
+    "name" : "story",
+    "value" : "详情页：加入购物车"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_products_details"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_products_details"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "product",
+    "value" : "'Sauce Labs Bike Light'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8fb51cc91f927ec0.json",
+  "parameterValues" : [ "'Sauce Labs Bike Light'" ]
+}

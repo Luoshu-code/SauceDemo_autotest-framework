@@ -1,0 +1,1 @@
+[32mINFO    [0m SauceDemo_logger:test_products_details.py:109 Test Passed: 从Test.allTheThings() T-Shirt (Red)的商品详情页返回主页成功.

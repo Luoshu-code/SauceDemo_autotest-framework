@@ -1,0 +1,7 @@
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.
+2025-04-09 21:05:28,900 - SauceDemo_logger - INFO - Test Passed: 结账总览页面商品总价与加入购物车商品单价之和相同.

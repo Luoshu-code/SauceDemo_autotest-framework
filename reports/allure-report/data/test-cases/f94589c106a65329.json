@@ -1,0 +1,120 @@
+{
+  "uid" : "f94589c106a65329",
+  "name" : "firstname:【sang】 lastname:【zhang】 postalcode:【666666】",
+  "fullName" : "test_cases.test_checkout_one#test_checkout_one_enterinfo",
+  "historyId" : "6f9641bbada95164ef4128f4894b4708",
+  "time" : {
+    "start" : 1744203861938,
+    "stop" : 1744203862128,
+    "duration" : 190
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_checkout_one",
+    "time" : {
+      "start" : 1744203858760,
+      "stop" : 1744203861937,
+      "duration" : 3177
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8a7b9f0b89d6452c",
+      "name" : "log",
+      "source" : "8a7b9f0b89d6452c.txt",
+      "type" : "text/plain",
+      "size" : 130
+    }, {
+      "uid" : "239fe44b7115cb58",
+      "name" : "stderr",
+      "source" : "239fe44b7115cb58.txt",
+      "type" : "text/plain",
+      "size" : 868
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ {
+    "name" : "setup_checkout_one::0",
+    "time" : {
+      "start" : 1744203862131,
+      "stop" : 1744203864282,
+      "duration" : 2151
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Checkout-step one: 填写结账信息"
+  }, {
+    "name" : "story",
+    "value" : "测试填写结账信息缺失，能否进入结账下一步"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_checkout_one"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-FTAI4QMK"
+  }, {
+    "name" : "thread",
+    "value" : "63320-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_cases.test_checkout_one"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "firstname",
+    "value" : "'sang'"
+  }, {
+    "name" : "lastname",
+    "value" : "'zhang'"
+  }, {
+    "name" : "postalcode",
+    "value" : "'666666'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f94589c106a65329.json",
+  "parameterValues" : [ "'sang'", "'zhang'", "'666666'" ]
+}
